@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <addon id="repository.laggat" name="Repository LaggAt" version="0.1.1" provider-name="Florian Lagg">
+        <requires>
+            <import addon="xbmc.addon" version="12.0.0"/>
+        </requires>
+        <extension point="xbmc.addon.repository" name="Repository LaggAt">
+            <info compressed="false">https://raw.githubusercontent.com/LaggAt/LaggAt-Kodi/master/_repo/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/LaggAt/LaggAt-Kodi/master/_repo/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/LaggAt/LaggAt-Kodi/master/_repo/</datadir>
+            <hashes>false</hashes>
+        </extension>
+        <extension point="xbmc.addon.metadata">
+            <summary>Just my repository for easy auto updates</summary>
+            <description>Use at your own risk. I am not responsible for whatever happens.</description>
+            <platform>all</platform>
+    </extension>
+</addon>
