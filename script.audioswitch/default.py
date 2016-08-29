@@ -203,5 +203,6 @@ swap = __addon__.getSetting("swap")
 dict_channels = {'1': '2.0', '2': '2.1', '3': '3.0', '4': '3.1', '5': '4.0', '6': '4.1', '7': '5.0', '8': '5.1', '9': '7.0', '10': '7.1'}
 dict_channels2 = {'2.0': '1', '2.1': '2', '3.0': '3', '3.1': '4', '4.0': '5', '4.1': '6', '5.0': '7', '5.1': '8', '7.0': '9', '7.1': '10'}
 
-while (not xbmc.abortRequested):
-    xbmc.sleep(1000)
+while not monitor.abortRequested():
+    if monitor.waitForAbort(10):
+        break
