@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.audioswitch"
+       name="Automatic Audio Switcher"
+       version="0.2.3"
+       provider-name="Marv">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.service"
+             library="default.py" start="startup">
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary lang="en">Switches Audio Device automatically when playing Music or Video!</summary>
+    <description lang="en">This Service Addon changes the Audio Output Device automatically when you start playing a Music or a Video! You first need to run the Setup by enabling it in the Addon Settings.[CR]Additionally you can bind a key to[CR]XBMC.RunScript[CR](special://home/addons/script.audioswitch/manualswitch.py)[CR]to switch the Audio Device manually!</description>
+    <summary lang="de">Schaltet automatisch das Audio Ausgabegerät bei Musik- und Videodateien um!</summary>
+    <description lang="de">Dieses Service Addon schaltet automatisch das Audio Ausgabegerät um, wenn Musik oder ein Video abgespielt wird! Zuerst muss in den Addon Settings der Konfigurationprozess gestartet werden, um die Audio Ausgabegeräte einzustellen! [CR]Zusätzlich kann eine Taste mit dem Script [CR]XBMC.RunScript[CR](special://home/addons/script.audioswitch/manualswitch.py)[CR] belegt werden, um das Audio Ausgabegerät manuell umzuschalten!</description>
+    <summary lang="it">Cambia automaticamente il dispositivo audio durante la riproduzione di Musica e Video!</summary>
+    <description lang="it">Questo addon cambia in automatico il dispositivo audio all'inizio della riproduzione di un file audio o video! E' prima necessario effettuare la procedura di configurazione abilitandola nelle impostazioni dell'addon. [CR]Inoltre è possibile associare ad un tasto il comando [CR]XBMC.RunScript(special://home/addons/script.audioswitch/manualswitch.py) [CR]per cambiare il disopsitivo audio manualmente!</description>
+  </extension>
+</addon>

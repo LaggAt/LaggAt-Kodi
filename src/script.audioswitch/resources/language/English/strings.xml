@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+	<!-- Addon Settings -->
+	<string id="30001">AUDIO SETTINGS</string>
+	<string id="30011">AUDIO DEVICE FOR MUSIC</string>
+	<string id="30012">Passthrough</string>
+	<string id="30013">Channels</string>
+	<string id="30021">Set Volume Level for Audio Device</string>
+	<string id="30014">AUDIO DEVICE FOR VIDEO</string>
+	<string id="30015">Passthrough</string>
+	<string id="30016">Channels</string>
+	<string id="30022">Set Volume Level for Video Device</string>
+	<string id="30017">AUDIO DEVICE FOR GUI</string>
+	<string id="30018">GUI Sounds - Use same Device like</string>
+	<string id="30020">Swap Devices for MUSIC / VIDEO</string>
+	<string id="30031">SETUP</string>
+	<string id="30032">Run Audio Device Setup</string>
+	<string id="30100">Go to the Audio Settings and set the Audio Device for *MUSIC*.[CR]After Configuration play an AUDIO File!</string>
+	<string id="30101">Go to the Audio Settings and set the Audio Device for *VIDEO*.[CR]After Configuration play a VIDEO File!</string>
+	<string id="30102">Configuration is now DONE!</string>
+	<string id="30103">Audio Device for *MUSIC* saved!</string>
+	<string id="30104">Audio Device for *VIDEO* saved!</string>
+	<string id="30105">Start Setup for the Automatic Audio Switch?</string>
+	<string id="30106">Setup Aborted!</string>
+	<string id="30107">DONE!</string>
+	<string id="30108">SETUP</string>
+</strings>

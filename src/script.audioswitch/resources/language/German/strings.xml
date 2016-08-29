@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+	<!-- Addon Settings -->
+	<string id="30001">AUDIO EINSTELLUNGEN</string>
+	<string id="30011">AUDIO AUSGABE FÜR MUSIK</string>
+	<string id="30012">Passthrough</string>
+	<string id="30013">Kanäle</string>
+	<string id="30021">Lautstärke bei Musik Wiedergabe</string>
+	<string id="30014">AUDIO AUSGABE FÜR VIDEO</string>
+	<string id="30015">Passthrough</string>
+	<string id="30016">Kanäle</string>
+	<string id="30022">Lautstärke bei Video Wiedergabe</string>
+	<string id="30017">AUDIO GERÄT FÜR GUI</string>
+	<string id="30018">GUI Töne - Verwende Ausgabegerät wie</string>
+	<string id="30020">Tausche Ausgabegerät für MUSIK / VIDEO</string>
+	<string id="30031">KONFIGURATION</string>
+	<string id="30032">Starte Konfiguration für Audio Ausgabegeräte</string>
+	<string id="30100">Gehe zu den KODI Audio Einstellungen und konfiguriere das Audioausgabegerät für *MUSIK*.[CR]Spiele danach eine MUSIKDATEI ab!</string>
+	<string id="30101">Gehe zu den KODI Audio Einstellungen und konfiguriere das Audioausgabegerät für *VIDEOS*.[CR]Spiele danach eine VIDEODATEI ab!</string>
+	<string id="30102">Konfiguration ist fertiggestellt!</string>
+	<string id="30103">Audio Ausgabegerät für *MUSIK* wurde gespeichert!</string>
+	<string id="30104">Audio Ausgabegerät für *VIDEOS* wurde gespeichert!</string>
+	<string id="30105">Starte Konfiguration zur automatischen Umschaltung der Audioausgabe?</string>
+	<string id="30106">Konfiguration abgebrochen!</string>
+	<string id="30107">FERTIG!</string>
+	<string id="30108">KONFIGURATION</string>
+</strings>

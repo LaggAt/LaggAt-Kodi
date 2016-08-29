@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+    <category label="30001">
+         <setting label="30011" type="lsep"/>
+         <setting label="30012" type="labelenum" id="device_audio_pt" values="true|false" default="false"/>
+         <setting label="30013" type="labelenum" id="device_audio_ch" values="2.0|2.1|3.0|3.1|4.0|4.1|5.0|5.1|7.0|7.1" default="2.0"/>
+		 <setting label="30021" type="labelenum" id="audio_volume" values="disabled|10|20|30|40|50|60|70|80|90|100" default="disabled"/>
+         <setting label="30014" type="lsep"/>
+         <setting label="30015" type="labelenum" id="device_video_pt" values="true|false" default="false"/>
+         <setting label="30016" type="labelenum" id="device_video_ch" values="2.0|2.1|3.0|3.1|4.0|4.1|5.0|5.1|7.0|7.1" default="2.0"/>
+		 <setting label="30022" type="labelenum" id="video_volume" values="disabled|10|20|30|40|50|60|70|80|90|100" default="disabled"/>
+         <setting label="30017" type="lsep"/>
+         <setting label="30018" type="labelenum" id="gui_device" values="-|VIDEO|MUSIC" default="-"/>
+		 <setting label="30020" type="bool" id="swap" value="false" default="false"/>
+    </category>
+    <category label="30031">
+         <setting label="30032" type="bool" id="setup" value="true" default="false"/>         
+    </category>
+</settings>

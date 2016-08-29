@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+<!-- Addon Settings -->
+<string id="30001">Impostazioni</string>
+<string id="30011">Dispositivo audio per la Musica</string>
+<string id="30012">Passthrough</string>
+<string id="30013">Numero canali</string>
+<string id="30021">Volume</string>
+<string id="30014">Dispositivo audio per i Video</string>
+<string id="30015">Passthrough</string>
+<string id="30016">Numero canali</string>
+<string id="30022">Volume</string>
+<string id="30017">Dispositivo audio per GUI</string>
+<string id="30018">Utilizza lo stesso dispositivo audio impostato per </string>
+<string id="30020">Scambia dispositivi audio per Musica/Video</string>
+<string id="30031">Configurazione</string>
+<string id="30032">Esegui la configurazione per il dispositivo audio</string>
+<string id="30100">Imposta in Uscita audio il dispositivo audio da utilizzare per la Musica e successivamente riproduci un file audio!</string>
+<string id="30101">Imposta in Uscita audio il dispositivo audio da utilizzare per i Video e successivamente riproduci un file video!</string>
+<string id="30102">Configurazione terminata!</string>
+<string id="30103">Dispositivo audio per la Musica impostato!</string>
+<string id="30104">Dispositivo audio per i Video impostato!</string>
+<string id="30105">Inizia la configurazione?</string>
+<string id="30106">Configurazione interrotta!</string>
+<string id="30107">Fatto!</string>
+<string id="30108">Configurazione</string>
+</strings>
