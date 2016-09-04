@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.laggat.eventprofiles" name="EventProfiles" version="0.1.0" provider-name="LaggAt">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+        <import addon="script.module.pydevd" version="3.4.1"/>
+    </requires>
+    <extension point="xbmc.service" library="startup.py" start="startup" />
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <language/>
+        <website>http://v.lagg.at/</website>
+        <source></source>
+        <forum>https://github.com/LaggAt/LaggAt-Kodi/prototype.laggat.events</forum>
+        <email></email>
+        <summary lang="en">Prototype: we are listening to Kodi events and show them.</summary>
+        <description lang="en">Prototype: we are listening to Kodi events and show them. Later in the project we will switch thru different states based on events. These state changes will fire events, which other plugins can register to.</description>
+    </extension>
+</addon>
